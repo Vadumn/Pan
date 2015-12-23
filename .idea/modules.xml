@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication3.iml" filepath="$PROJECT_DIR$/MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAs/TestAs.iml" filepath="$PROJECT_DIR$/TestAs/TestAs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qlhf/qlhf.iml" filepath="$PROJECT_DIR$/qlhf/qlhf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/social_sdk_library_project/social_sdk_library_project.iml" filepath="$PROJECT_DIR$/social_sdk_library_project/social_sdk_library_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutilslibrary/xutilslibrary.iml" filepath="$PROJECT_DIR$/xutilslibrary/xutilslibrary.iml" />
+    </modules>
+  </component>
+</project>

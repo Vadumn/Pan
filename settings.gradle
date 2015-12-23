@@ -1,0 +1,4 @@
+include ':app', ':myapplication', ':TestAs', ':myapplication2'
+include ':social_sdk_library_project'
+include ':xutilslibrary'
+include ':qlhf'
